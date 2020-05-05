@@ -10,6 +10,9 @@
 [Unity Obstacle Tower Source Code](https://github.com/Unity-Technologies/obstacle-tower-source)   
 [Unity ML-Agents](https://unity3d.com/machine-learning)    
 [PyBoy](https://github.com/Baekalfen/PyBoy)   
+[Procgen Benchmark](https://openai.com/blog/procgen-benchmark/)  
+[Neural MMO: A Massively Multiagent Game Environment](https://openai.com/blog/neural-mmo/)  
+
 
          
 
